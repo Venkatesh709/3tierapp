@@ -1,7 +1,3 @@
-### Sample Java Code
-
-#### `src/main/java/com/example/controller/SampleController.java`
-```java
 package com.example.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -40,4 +36,3 @@ public class SampleController {
         return result;
     }
 }
-```
